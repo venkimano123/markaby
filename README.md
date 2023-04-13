@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
