@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
