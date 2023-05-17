@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
