@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add docs guide terminal images (#8819)
