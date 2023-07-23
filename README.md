@@ -1,1 +1,1 @@
-fix val each epoch
+Tracker: clean up GMC (#8003)
