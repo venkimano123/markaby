@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add YOLOv8 LibTorch C++ inference example (#7090)
