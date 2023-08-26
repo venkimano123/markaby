@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Fixed RTDETR GFLOPs bug (#7309)
