@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
