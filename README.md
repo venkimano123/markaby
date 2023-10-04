@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
