@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Fix OpenVINO links (#7930)
