@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
