@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix docker.yaml double-quote version bug (#7452)
