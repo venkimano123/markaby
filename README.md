@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update format.yml to pull_request_target (#7460)
