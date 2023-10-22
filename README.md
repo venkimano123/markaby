@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Add Amazon Sagemaker Docs integrations page (#7293)
