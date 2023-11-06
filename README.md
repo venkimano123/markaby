@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
