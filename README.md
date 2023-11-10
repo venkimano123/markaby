@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Elaborate Train and Predict mode docs arguments (#8137)
