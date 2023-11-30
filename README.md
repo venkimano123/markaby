@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Optimize TFJS export on ARM64 (#8946)
