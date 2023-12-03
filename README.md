@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Update Discord and Contributing Guide URLs (#9270)
