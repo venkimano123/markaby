@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add PaddlePaddle Docs Integrations Page (#8858)
