@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+New test for labels and crops (#8861)
