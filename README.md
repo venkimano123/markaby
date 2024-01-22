@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Update fraction arg to employ a random selection (#8234)
