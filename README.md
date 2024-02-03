@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
