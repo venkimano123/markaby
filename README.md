@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update fraction arg to employ a random selection (#8234)
