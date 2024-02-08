@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update Discord and Contributing Guide URLs (#9270)
