@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
