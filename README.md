@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
