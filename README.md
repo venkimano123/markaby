@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix xyxyxyxyn calculation in obb result (#8188)
