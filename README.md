@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+fix predict with class filter
