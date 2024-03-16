@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
