@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update OpenVINO INT8 export (#7515)
