@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Avoid creating -hub dir without processing images (#8334)
