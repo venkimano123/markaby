@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
