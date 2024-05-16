@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix TypeError in check_cfg() (#9245)
