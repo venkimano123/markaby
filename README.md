@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Compress docs images (#8124)
