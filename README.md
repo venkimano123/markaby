@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add new @Retry() decorator (#7854)
