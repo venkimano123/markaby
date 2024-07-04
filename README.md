@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+New test for labels and crops (#8861)
