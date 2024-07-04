@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
