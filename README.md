@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
