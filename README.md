@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
