@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
