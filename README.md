@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
